@@ -1,0 +1,16 @@
+[
+    {
+        "lidmaatschapsnummer": "LID0001",
+        "naam": "Jan Jansen",
+        "geboortedatum": "15-01-1990",
+        "telefoon": "0123456789",
+        "adres": "Straatweg 12, 1234 AB, Bergem"
+    },
+    {
+        "lidmaatschapsnummer": "LID0002",
+        "naam": "Jarno Beuckelaere",
+        "geboortedatum": "30-11-2006",
+        "telefoon": "0468519630",
+        "adres": "Koekelare"
+    }
+]
